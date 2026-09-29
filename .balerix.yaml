@@ -1,0 +1,5 @@
+apiVersion: balerix/v1
+kind: Fleet
+crews:
+  repo:
+    repo: balerix-ai/balerix-verify
