@@ -1,8 +1,5 @@
 apiVersion: balerix/v1
 kind: Fleet
-defaults:
-  sandbox:
-    extends: none
 crews:
   repo:
     repo: balerix-ai/balerix-verify
